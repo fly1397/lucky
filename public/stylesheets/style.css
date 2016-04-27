@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.fl{float: left;}
+.left{max-height: 2000px; overflow: auto;}
+#main .fl{width: 45%;margin-left: 5%;}
+li{margin-bottom: 5px;}
+strong{display: inline-block;margin:0 20px;}
+span{ display: inline-block;margin: 0 10px;color: red;padding: 2px;}
+.fl span:last-child,.blue{color: #fff; background: blue; border-radius: 100%;}
+.min{color:#419641;}
+.mid{color:#2aabd2;}
+.max{color:#eb9316;}
